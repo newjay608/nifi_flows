@@ -1,0 +1,14 @@
+flows:
+  731c2b86-b2fa-4368-88d3-f1ff876c6202:
+    ver: 1
+    file: ABCD.snapshot
+    comments: |
+      THis is my first git process group
+      check in
+    author: anonymous
+    created: 1675642584832
+    flowName: ABCD
+    flowDesc: |
+      THis is my first git process group
+layoutVer: 1
+bucketId: bfce7923-9617-4ef6-9fc3-f07fdcd8e87f
